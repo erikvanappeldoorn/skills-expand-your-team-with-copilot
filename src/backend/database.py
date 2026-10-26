@@ -54,6 +54,17 @@ initial_activities = {
         "max_participants": 20,
         "participants": ["emma@mergington.edu", "sophia@mergington.edu"]
     },
+    "Manga Maniacs": {
+        "description": "Explore the fantastic stories of the most interesting characters from Japanese Manga (graphic novels).",
+        "schedule": "Tuesdays, 7:00 PM - 8:30 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "19:00",
+            "end_time": "20:30"
+        },
+        "max_participants": 15,
+        "participants": []
+    },
     "Morning Fitness": {
         "description": "Early morning physical training and exercises",
         "schedule": "Mondays, Wednesdays, Fridays, 6:30 AM - 7:45 AM",
